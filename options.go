@@ -54,7 +54,7 @@ const (
 )
 
 var DefaultOptions = Options{
-	DirPath:            "/media/jiang/hsk/practice/Golang/go/goCode/prac06/kv-project/bitcask_data", //os.TempDir(),
+	DirPath:            "", //os.TempDir(),
 	DataFileSize:       256 * 1024 * 1024,                                                           // 256MB
 	SyncWrites:         false,
 	BytesPerSync:       0,
