@@ -1,1 +1,1 @@
-"# bitcask-go" 
+# bitcask-go
